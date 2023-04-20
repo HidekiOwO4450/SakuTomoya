@@ -1,0 +1,12 @@
+using system;
+namespace Hello
+{
+  class Lily
+  {
+  static void Main()
+    {
+      Consloe.writeLine("Hello, Im lily.");
+    }
+  }
+}
+    
